@@ -1,9 +1,9 @@
-import Message from "./Message";
+import Form from "./components/Form";
 
 function App() {
   return (
     <div>
-      <Message />
+      <Form />
     </div>
   );
 }
